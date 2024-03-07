@@ -17,9 +17,9 @@
     <title></title>
 </head>
 <body>
-    <h1> LISTA DE ATIVIDADES NA SEMANA...</h1>
+    <h1> Mais sobre mim e minhas redes.</h1>
     
-    <p> Aqui estou mostrando com será a rotina da semana do dia 26/02 até 01/03</p>
+    <p> mostrando minhas redes socias</p>
     
     
     <img src="anao mini peka.jpg" alt="fotoprincipal">
