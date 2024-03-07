@@ -13,7 +13,7 @@
     <p> Aqui estou mostrando com será a rotina da semana do dia 26/02 até 01/03</p>
     
     
-    <img src="NEWTON1.jpg" alt="logo do Newton">
+    <img src=".jpg" alt="logo do Newton">
     <img src="NEWTON2.jpg" alt="foto do Newton"> 
     <img src="BARAO1.png" alt="logo do barão">
     <img src="BARAO2.jpg" alt="foto do Barão">
